@@ -122,20 +122,20 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "women"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "duft",
             "second_image": false
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "men"
           }
         }
       },
